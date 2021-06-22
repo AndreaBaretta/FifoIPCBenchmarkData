@@ -1,0 +1,82 @@
+Architecture:                    x86_64
+CPU op-mode(s):                  32-bit, 64-bit
+Byte Order:                      Little Endian
+Address sizes:                   46 bits physical, 48 bits virtual
+CPU(s):                          96
+On-line CPU(s) list:             0-95
+Thread(s) per core:              2
+Core(s) per socket:              24
+Socket(s):                       2
+NUMA node(s):                    2
+Vendor ID:                       GenuineIntel
+CPU family:                      6
+Model:                           85
+Model name:                      Intel(R) Xeon(R) Platinum 8259CL CPU @ 2.50GHz
+Stepping:                        7
+CPU MHz:                         1200.060
+CPU max MHz:                     3500.0000
+CPU min MHz:                     1200.0000
+BogoMIPS:                        5000.00
+Virtualization:                  VT-x
+L1d cache:                       1.5 MiB
+L1i cache:                       1.5 MiB
+L2 cache:                        48 MiB
+L3 cache:                        71.5 MiB
+NUMA node0 CPU(s):               0-23,48-71
+NUMA node1 CPU(s):               24-47,72-95
+MemTotal:       395876812 kB
+	Speed: 2933 MT/s
+	Configured Memory Speed: 2666 MT/s
+	Speed: Unknown
+	Configured Memory Speed: Unknown
+	Speed: 2933 MT/s
+	Configured Memory Speed: 2666 MT/s
+	Speed: Unknown
+	Configured Memory Speed: Unknown
+	Speed: 2933 MT/s
+	Configured Memory Speed: 2666 MT/s
+	Speed: Unknown
+	Configured Memory Speed: Unknown
+	Speed: 2933 MT/s
+	Configured Memory Speed: 2666 MT/s
+	Speed: Unknown
+	Configured Memory Speed: Unknown
+	Speed: 2933 MT/s
+	Configured Memory Speed: 2666 MT/s
+	Speed: Unknown
+	Configured Memory Speed: Unknown
+	Speed: 2933 MT/s
+	Configured Memory Speed: 2666 MT/s
+	Speed: Unknown
+	Configured Memory Speed: Unknown
+	Speed: 2933 MT/s
+	Configured Memory Speed: 2666 MT/s
+	Speed: Unknown
+	Configured Memory Speed: Unknown
+	Speed: 2933 MT/s
+	Configured Memory Speed: 2666 MT/s
+	Speed: Unknown
+	Configured Memory Speed: Unknown
+	Speed: 2933 MT/s
+	Configured Memory Speed: 2666 MT/s
+	Speed: Unknown
+	Configured Memory Speed: Unknown
+	Speed: 2933 MT/s
+	Configured Memory Speed: 2666 MT/s
+	Speed: Unknown
+	Configured Memory Speed: Unknown
+	Speed: 2933 MT/s
+	Configured Memory Speed: 2666 MT/s
+	Speed: Unknown
+	Configured Memory Speed: Unknown
+	Speed: 2933 MT/s
+	Configured Memory Speed: 2666 MT/s
+	Speed: Unknown
+	Configured Memory Speed: Unknown
+NAME="Ubuntu"
+VERSION="20.04.2 LTS (Focal Fossa)"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Ubuntu 20.04.2 LTS"
+VERSION_ID="20.04"
+Kernel version: 5.4.0-1045-aws
