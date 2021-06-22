@@ -1,0 +1,66 @@
+Architecture:                    x86_64
+CPU op-mode(s):                  32-bit, 64-bit
+Byte Order:                      Little Endian
+Address sizes:                   46 bits physical, 57 bits virtual
+CPU(s):                          160
+On-line CPU(s) list:             0-159
+Thread(s) per core:              2
+Core(s) per socket:              40
+Socket(s):                       2
+NUMA node(s):                    2
+Vendor ID:                       GenuineIntel
+CPU family:                      6
+Model:                           106
+Model name:                      Intel(R) Xeon(R) Platinum 8380 CPU @ 2.30GHz
+Stepping:                        6
+Frequency boost:                 enabled
+CPU MHz:                         2923.655
+CPU max MHz:                     3400.0000
+CPU min MHz:                     800.0000
+BogoMIPS:                        4600.00
+Virtualization:                  VT-x
+L1d cache:                       3.8 MiB
+L1i cache:                       2.5 MiB
+L2 cache:                        100 MiB
+L3 cache:                        120 MiB
+NUMA node0 CPU(s):               0-39,80-119
+MemTotal:       263717120 kB
+	Speed: 3200 MT/s
+	Configured Memory Speed: 3200 MT/s
+	Speed: 3200 MT/s
+	Configured Memory Speed: 3200 MT/s
+	Speed: 3200 MT/s
+	Configured Memory Speed: 3200 MT/s
+	Speed: 3200 MT/s
+	Configured Memory Speed: 3200 MT/s
+	Speed: 3200 MT/s
+	Configured Memory Speed: 3200 MT/s
+	Speed: 3200 MT/s
+	Configured Memory Speed: 3200 MT/s
+	Speed: 3200 MT/s
+	Configured Memory Speed: 3200 MT/s
+	Speed: 3200 MT/s
+	Configured Memory Speed: 3200 MT/s
+	Speed: 3200 MT/s
+	Configured Memory Speed: 3200 MT/s
+	Speed: 3200 MT/s
+	Configured Memory Speed: 3200 MT/s
+	Speed: 3200 MT/s
+	Configured Memory Speed: 3200 MT/s
+	Speed: 3200 MT/s
+	Configured Memory Speed: 3200 MT/s
+	Speed: 3200 MT/s
+	Configured Memory Speed: 3200 MT/s
+	Speed: 3200 MT/s
+	Configured Memory Speed: 3200 MT/s
+	Speed: 3200 MT/s
+	Configured Memory Speed: 3200 MT/s
+	Speed: 3200 MT/s
+	Configured Memory Speed: 3200 MT/s
+NAME="Ubuntu"
+VERSION="20.04.2 LTS (Focal Fossa)"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Ubuntu 20.04.2 LTS"
+VERSION_ID="20.04"
+Kernel version: 5.4.0-73-generic
