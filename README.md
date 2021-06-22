@@ -4,7 +4,7 @@ This git repo contains data gathered for various CPUs by the FifoIPCBenchmark be
 
 ## About
 
-This data for the AMD Ryzen 9 5950X and Intel Xeon Platinum 8380 was gathered on bare metal severs. The data for the AMD EPYC 7R32, Amazon Graviton2, Intel Xeon Platinum 8124M, Intel Xeon Platinum 8252C, and Intel Xeon Platinum 8259CL were gathered through metal instances on Amazon Web Services.
+This data for the AMD Ryzen 9 5950Xm AMD EPYC 7763, and Intel Xeon Platinum 8380 was gathered on bare metal severs. The data for the AMD EPYC 7R32, Amazon Graviton2, Intel Xeon Platinum 8124M, Intel Xeon Platinum 8252C, and Intel Xeon Platinum 8259CL were gathered through metal instances on Amazon Web Services.
 
 For these experiments, the compiler used was `gcc-10` with the c++20 starndard. The benchmark was compiled in release mode.
 
