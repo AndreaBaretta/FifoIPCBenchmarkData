@@ -1,0 +1,34 @@
+Architecture:                    x86_64
+CPU op-mode(s):                  32-bit, 64-bit
+Byte Order:                      Little Endian
+Address sizes:                   48 bits physical, 48 bits virtual
+CPU(s):                          96
+On-line CPU(s) list:             0-95
+Thread(s) per core:              2
+Core(s) per socket:              48
+Socket(s):                       1
+NUMA node(s):                    1
+Vendor ID:                       AuthenticAMD
+CPU family:                      23
+Model:                           49
+Model name:                      AMD EPYC 7R32
+Stepping:                        0
+CPU MHz:                         1772.443
+BogoMIPS:                        5599.98
+Hypervisor vendor:               KVM
+Virtualization type:             full
+L1d cache:                       1.5 MiB
+L1i cache:                       1.5 MiB
+L2 cache:                        24 MiB
+L3 cache:                        192 MiB
+NUMA node0 CPU(s):               0-95
+Vulnerability Itlb multihit:     Not affected
+Vulnerability L1tf:              Not affected
+MemTotal:       195790316 kB
+NAME="Ubuntu"
+VERSION="20.04.2 LTS (Focal Fossa)"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Ubuntu 20.04.2 LTS"
+VERSION_ID="20.04"
+Kernel version: 5.4.0-1045-aws
